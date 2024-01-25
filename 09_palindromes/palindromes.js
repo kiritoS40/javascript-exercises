@@ -7,6 +7,8 @@ const palindromes = function (string) {
   }
 
   return true;
+
+  // return processedString.split("").reverse().join("") === processedString;
 };
 
 // Do not edit below this line
